@@ -1,0 +1,24 @@
+.catImage{
+    width: 20%;
+    float: left;
+}
+
+.button{
+    float: right;
+    margin-right: 50%;
+}
+
+.question{
+    float: right;
+    margin-right: 50%;
+    margin-bottom: 7%;
+    font-size: large;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+#no{
+    display: block;
+    position: absolute;
+    
+}
